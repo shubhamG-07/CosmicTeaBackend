@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Database files (if you ever test SQLite again)
+*.db
